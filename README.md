@@ -1,3 +1,3 @@
 # releasedebug.github.io
 
-![doc]({{site.baseurl}}/test/assets/dog.png)
+![doc](https://releasedebug.github.io/test/assets/dog.png)
